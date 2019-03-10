@@ -2,13 +2,17 @@
 
 
 The purpose of this project is to prepare tidy data that can be used for later analysis. 
-It is required to submit: 
 
-1. A tidy data set as described below 
+The project contains: 
 
-2. A link to a Github repository with your script for performing the analysis
+1. A tidy data set.
+
+2. A `Readme.md` file.
 
 3. A code book that describes the variables, the data, and any transformations or work performed to clean up the data called `CodeBook.md`. 
+
+4. A R script called `run_analysis.R` as described below.
+
 
 
 The data for the project has been collected from the following link:
